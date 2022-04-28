@@ -36,4 +36,4 @@ Sync your contact list with your phone and/or Facebook contacts. Never lose your
 #### Devices
 
 ChatApp is available everywhere. Find out how to set it up on your all your devices.
-ффффффФФФФФФФФфффффффффффффффффффффффффФФФФФФФФФФФФФФФФффффффффффффФФфффффффффф
+
