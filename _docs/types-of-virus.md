@@ -1,6 +1,6 @@
 ---
 title: Типы вирусов
-category: О компьютерных вирусах
+category:
 order: 2
 ---
 
